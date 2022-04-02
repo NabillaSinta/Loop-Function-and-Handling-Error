@@ -43,7 +43,8 @@ List comprehension offers a shorter syntax when you want to create a new list ba
 # Handling Error and Exception
 Syntax Error: Syntax Error is a state where python code encounters a write error. The Python interpreter can detect this error while the code is executing
 
-# Exception: Exception is a condition when the syntax is written correctly, but an error occurs because the syntax cannot be executed, but because of a mathematical error, an error in the name of the function, library, and others.
+# Exception
+Exception is a condition when the syntax is written correctly, but an error occurs because the syntax cannot be executed, but because of a mathematical error, an error in the name of the function, library, and others.
 
 # Function
 In Python, a function is a group of related statements that performs a specific task. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and manageable. Furthermore, it avoids repetition and makes the code reusable.
